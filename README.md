@@ -15,7 +15,19 @@
   Me especializo en el análisis de datos y desarrollo de aplicaciones utilizando tecnologías modernas tanto en frontend como backend, así como herramientas de inteligencia de negocio y plataformas cloud. Siempre estoy dispuesto a aprender, colaborar y aportar valor en entornos multidisciplinarios.
 </p>
 
-<p align="center"> <a href="mailto:luisenriquepinto9@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/luis-enrique-jr-pinto-fuentes-688629316" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp;&nbsp; <a href="tel:+573227005571" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /> </a> </p>
+<p align="center"> 
+  <a href="mailto:luisenriquepinto9@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a> 
+  &nbsp;&nbsp; 
+  <a href="https://www.linkedin.com/in/luis-enrique-jr-pinto-fuentes-688629316" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp; 
+  <a href="https://wa.me/573227005571" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
 
 ### 🛠 Tecnologías y Herramientas
 ---
