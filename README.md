@@ -33,16 +33,16 @@
 ---
 
 #### 🧩 Frameworks & Lenguajes de Programación
-<p align="justify"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,angular,spring,fastapi,js,java,python" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,angular,spring,fastapi,js,java,python" /> </p>
 
 #### 🛢️ Bases de Datos
-<p align="justify"> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" /> </p>
 
 #### ☁️ Cloud & Infraestructura
-<p align="justify"> <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker" /> </p>
 
 #### 📊 Business Intelligence
-<p align="justify"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" height="28" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" height="28" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" height="28" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" height="28" /> </p>
 
 ### 📚 Estadísticas de GitHub
 ---
